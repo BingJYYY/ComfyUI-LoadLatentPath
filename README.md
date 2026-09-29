@@ -4,6 +4,7 @@
 
 **Load a `.latent` file from a plain STRING path — linkable, no validation crash.**
 
+[![Release](https://img.shields.io/github/v/release/BingJYYY/ComfyUI-LoadLatentPath)](https://github.com/BingJYYY/ComfyUI-LoadLatentPath/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![ComfyUI](https://img.shields.io/badge/ComfyUI-custom__node-blue)](https://github.com/comfyanonymous/ComfyUI)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
