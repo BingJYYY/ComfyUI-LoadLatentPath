@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 # ComfyUI-LoadLatentPath
@@ -208,4 +207,3 @@ __pycache__/
 *.pyc
 *.egg-info/
 .DS_Store
-```
